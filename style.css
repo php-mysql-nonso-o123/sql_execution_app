@@ -1,0 +1,25 @@
+.container {
+    padding: 5% 30% 30%;
+    
+}
+table {
+    border-collapse: collapse;
+    font-size: 28px;
+  }
+  
+  table, th, td {
+    border: 3px solid black;
+  }
+  .col1 {
+      text-align: right;
+      vertical-align: text-top;
+  }
+  .col2 {
+      width: 300px;
+  }
+  .btn-row {
+      text-align: center;
+  }
+  span {
+      color: red;
+  }
