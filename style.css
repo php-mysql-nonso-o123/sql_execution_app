@@ -1,6 +1,7 @@
 .container {
-    padding: 5% 30% 30%;
-    
+    padding-left:30%;
+    padding-right: 30%;
+    margin-top: 10px;
 }
 table {
     border-collapse: collapse;
@@ -17,9 +18,21 @@ table {
   .col2 {
       width: 300px;
   }
+  .message {
+      padding-top: 10px;
+      color: red;
+      padding-left:30%;
+      padding-right: 30%;
+  }
+  .success {
+      color: black;
+  }
   .btn-row {
       text-align: center;
   }
   span {
       color: red;
+      padding-left:30%;
+      padding-right: 30%;
+      padding-top: 10%;
   }
